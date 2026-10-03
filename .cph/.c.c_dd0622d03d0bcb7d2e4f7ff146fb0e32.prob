@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"e:\\lab\\c.c","tests":[{"id":1754813772091,"input":"a","output":""},{"id":1754813788131,"input":"97","output":""},{"id":1754813834476,"input":"A","output":""},{"id":1754813844123,"input":"0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\lab\\c.c","group":"local","local":true}

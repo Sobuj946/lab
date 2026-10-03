@@ -1,0 +1,1 @@
+{"name":"Local: forward","url":"e:\\lab\\forward.cpp","tests":[{"id":1755745165195,"input":"4\n45 50 55 60\n0.7071 0.7660 0.8192 0.8660\n52","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\lab\\forward.cpp","group":"local","local":true}

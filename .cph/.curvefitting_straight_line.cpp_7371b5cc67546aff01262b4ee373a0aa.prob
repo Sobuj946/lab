@@ -1,0 +1,1 @@
+{"name":"Local: curvefitting_straight_line","url":"e:\\lab\\curvefitting_straight_line.cpp","tests":[{"id":1755688549215,"input":"4\n2 33 4 5 6\n3 4 5 6 7 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\lab\\curvefitting_straight_line.cpp","group":"local","local":true}
